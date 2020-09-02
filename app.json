@@ -1,0 +1,6 @@
+{
+  "name": "MessageForwarder",
+  "description": "A little tool developed for a customer to forward messages from one server to another.",
+  "repository": "https://github.com/GregTCLTK/MessageForwarder",
+  "keywords": ["nodejs", "javascript", "typescript"]
+}

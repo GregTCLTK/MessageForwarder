@@ -1,0 +1,24 @@
+{
+  "token": "",
+  "redirects": [
+    {
+      "sources": [
+        "",
+        ""
+      ],
+      "destinations": [
+        "",
+        ""
+      ],
+      "options": {
+        "title": "New message appeared",
+        "richEmbed": true,
+        "richEmbedColor": 30975,
+        "includeSource": true,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": true
+      }
+    }
+  ]
+}
